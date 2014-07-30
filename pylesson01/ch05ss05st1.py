@@ -1,3 +1,3 @@
-__author__ = 'takuya.sasaki'
+__author__ = 'ts'
 import sys
 print(sys.argv[0:])

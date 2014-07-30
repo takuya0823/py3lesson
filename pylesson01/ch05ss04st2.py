@@ -1,4 +1,4 @@
-__author__ = 'takuya.sasaki'
+__author__ = 'ts'
 import random
 while True:
     rand_num =random.randint(0,9)

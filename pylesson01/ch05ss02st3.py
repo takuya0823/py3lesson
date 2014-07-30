@@ -1,4 +1,4 @@
-__author__ = 'takuya.sasaki'
+__author__ = 'ts'
 dict_tohoku = {'aomori':5349.0,'akita':4644.0,'sendai':5344.0,\
                'Yamagata':4968.0,'fukushima':6259.0,'morioka':5478.0}
 avg_tohoku = 0.0

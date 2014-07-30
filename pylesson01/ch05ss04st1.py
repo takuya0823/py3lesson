@@ -1,4 +1,4 @@
-__author__ = 'takuya.sasaki'
+__author__ = 'ts'
 import random
 rand_num = 0
 while rand_num != 4:

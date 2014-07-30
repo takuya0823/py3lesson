@@ -1,4 +1,4 @@
-__author__ = 'takuya.sasaki'
+__author__ = 'ts'
 import datetime
 today = datetime.datetime.now()
 print(today)
