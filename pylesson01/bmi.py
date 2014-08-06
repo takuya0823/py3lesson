@@ -2,11 +2,11 @@
 __author__ = 'ts'
 
 while True:
-    height = input('身長(ｍ)?:')           #組み込み関数raw_input
+    height = input('身長(ｍ)?:')
     if len(height) == 0:
         break
     height = float(height)                      #小数に変換
-    weight = float(input('体重(kg)?:'))   #組み込み関数raw_input
+    weight = float(input('体重(kg)?:'))
     bmi = weight/pow(height,2)                  #組み込み関数powで累乗計算
     print('BMI値は%0.1fです。' % bmi)         #小数点第一位までの出力
     if bmi < 18.5:
